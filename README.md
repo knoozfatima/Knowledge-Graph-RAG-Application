@@ -122,8 +122,9 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 For questions or inquiries, please contact the developer:
 
-- **Email**: [aianytime07@gmail.com](mailto:aianytime07@gmail.com)
+- **Email**: [knoozfatima@gmail.com](mailto:knoozfatima@gmail.com)
 
 ---
 
 *Disclaimer: This project is for educational purposes. Please ensure compliance with all applicable laws and regulations when using OpenAI's API and handling data.*
+
